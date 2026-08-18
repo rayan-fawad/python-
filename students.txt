@@ -1,0 +1,7 @@
+Name: rayan
+Roll: 1
+Age: 1
+Marks: 20
+Behaviour: good
+skill:  developer
+----------------
